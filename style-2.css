@@ -1,0 +1,42 @@
+.hh{
+  padding: 60px 0px 60px 0px;
+
+}                                /*used by Glossary page */
+.contt{ 
+  height: 600px;
+  width: 1440px;
+  margin: 0 auto; 
+} 
+.Member{ 
+  margin:10px 0px 0px 0px; 
+  max-width: 400px;
+  max-height: 200px;
+  padding: 10px; 
+  border: 5px double grey; 
+}
+.cont_m{
+  float: left;
+  margin: 0px 0px 0px 30px;
+  
+}
+.cont_m:last-child{
+  float: right;
+  margin: 0px 30px 0px 0px;
+  
+}
+.cont_m:nth-child(3){
+  margin: 0px 0px 0px 43px;
+}
+.upc a{
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 40px;
+  color: #585757;
+  font-weight: bold;
+  margin: 0px 0px 0px 657px;
+  
+
+}
+.upc a:hover{
+  color: #382020;
+}

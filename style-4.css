@@ -1,0 +1,191 @@
+*{
+  padding: 0;
+  margin: 0;
+}                                /*used by User Interface and Resources page page */
+
+header{
+  height: 100px;
+  background-color: #d4c2a9;
+}
+
+body{
+  font-family: arial;
+  color: #f0f8ff;
+  background: #cdc6c6;
+
+}
+#first{
+  background: url(img/seasky.jpg) no-repeat center top / cover;
+  height: 800px;
+}
+
+.button {
+  background: #fed136;
+  color: #484543;
+  border-radius: 3px;
+  display: block;
+  width: 244px;
+  padding: 20px 0;
+  margin: 10px auto;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 65px;
+
+
+}
+.button:hover {
+  background: #ffa200;
+}
+.button:active{
+  background: #ff7e00;
+}
+.menu a:hover{
+  color: #eeeeee;
+}
+
+
+
+nav{
+  float: right;
+  margin-top: 46px;
+}
+
+.logo{
+  padding-top: 00px;
+  float: left;
+}
+.cont{ 
+  height: 900px;
+  margin: 0 auto;
+}
+.menu{
+  margin: 0;
+  padding: 0;
+  display: block; 
+}
+
+.menu li {
+  float: left;
+  display: block;
+  margin-right: 50px;
+}
+
+.menu a{
+  color: aliceblue;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 24px
+}
+
+#vid{
+  height: 800px;
+  width: 1440px;
+  margin: 0 auto;
+}
+.tit_one{
+  padding: 80px;
+  font-size: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white
+}
+h1{
+  font-size: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #f8f8ff;
+}
+.titles{
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 60px 0px 0px 0px;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+.valida{
+  text-align: center;
+  width: 1000px;
+  float: right;
+  padding: 0px 210px 10px 0px;
+  margin: 0px 0px 30px 0px;
+  background: #cdc6c6;
+}
+
+.tm{
+  padding: 20px;
+  color: #595252;
+}
+
+.te_am{
+  text-align: center;
+  width: 450px;
+  float: left;
+  padding: 0px 0px 100px 0px;
+  margin: 0px 0px 30px 0px;
+  background: #cdc6c6;
+}
+
+  
+.te_am h3{
+  font-size: 11px;
+
+}
+.te_am:last-child{
+  float: right;
+}
+.te_am:nth-child(2){
+  margin-left: 45px;
+
+}
+.tmore a{
+  color: #121213;
+  text-decoration: none;
+  padding: 60px;
+  display: block;
+  width: 244px;
+  margin: 10px auto;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+
+}
+.tmore a:hover{
+  color: #e71212;
+}
+.cont a{
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 40px;
+  color: #6a6a6a;
+  font-weight: bold;
+  float: right;
+  margin: 10px 650px 0px 0px;
+
+}
+.cont a:hover{
+  color: #382020;
+}
+.te_am a{
+  text-decoration: none;
+  font-size: 15px;
+}
+.links{
+  text-decoration: none;
+  font-size: 15px;
+  
+}
+
+.screenshot{
+  text-align: left;
+  margin: 30px 10px 0px 50px;
+  padding: 0px 0px 30px 0px;
+}
+

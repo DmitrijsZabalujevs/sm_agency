@@ -1,0 +1,253 @@
+*{
+  padding: 0;
+  margin: 0;
+}                                /*used by Glossary page */
+
+header{
+  height: 100px;
+  background-color: #d4c2a9;
+}
+
+body{
+  font-family: arial;
+  color: #f0f8ff;
+  background: #cdc6c6;
+
+}
+#first{
+  background: url(img/seasky.jpg) no-repeat center top / cover;
+  height: 800px;
+}
+
+.button {
+  background: #fed136;
+  color: #484543;
+  border-radius: 3px;
+  display: block;
+  width: 244px;
+  padding: 20px 0;
+  margin: 10px auto;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 65px;
+
+
+}
+.button:hover {
+  background: #ffa200;
+}
+.button:active{
+  background: #ff7e00;
+}
+.menu a:hover{
+  color: #eeeeee;
+}
+
+
+
+nav{
+  float: right;
+  margin-top: 46px;
+}
+
+.logo{
+  padding-top: 00px;
+  float: left;
+}
+.cont{ 
+  height: 900px;
+  margin: 0 auto;
+}
+.menu{
+  margin: 0;
+  padding: 0;
+  display: block; 
+}
+
+.menu li {
+  float: left;
+  display: block;
+  margin-right: 50px;
+}
+
+.menu a{
+  color: aliceblue;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 24px
+}
+
+#vid{
+  height: 800px;
+  width: 900px;
+  margin: 0 auto;
+  background: #cdc6c6;
+}
+.tit_one{
+  padding: 80px 0px 0px 0px;
+  font-size: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white
+}
+h1{
+  font-size: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #f8f8ff;
+}
+.titles{
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 60px 0px 60px 0px;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+.tm{
+  padding: 0px
+}
+.te_am{
+  text-align: center;
+  width: 270px;
+  float: left;
+  padding: 0px 0px 160px 0px;
+  margin: 0px 0px 30px 0px;
+  background: #272727;
+
+
+}
+.te_am h3{
+  font-size:  22px;
+
+}
+.te_am:last-child{
+  float: right;
+}
+.te_am:nth-child(2){
+  margin-left: 45px;
+
+}
+.tmore a{
+  color: #121213;
+  text-decoration: none;
+  padding: 60px;
+  display: block;
+  width: 244px;
+  margin: 10px auto;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+
+}
+.tmore a:hover{
+  color: #e71212;
+}
+
+#inig{
+  height: 800px;
+  margin: 0 auto;
+
+}
+.cont_c{
+  height: 800px;
+}
+#inig .cont_c{
+  background-color: #161212;
+}
+.cont_c h2{
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 120px 0px 60px 0px;
+}
+.form{
+  width: 300px;
+  margin: 0px auto;
+}
+.cell{
+  border-radius: 3px;
+  background: #fff;
+  display: block;
+  height: 60px;
+  padding-left: 24px;
+  border: 0px;
+  box-shadow: 0px 3px 3px rgba  (0,0,0,0.2);
+  margin-bottom: 15px;
+  width: 100%;
+  font-size: 24px;
+  float: right;
+
+}
+.ac{
+  margin: 15px;
+
+}
+#contact{
+  background: #cdc6c6;
+  height: 800px;
+  width: 900px;
+  margin: 0 auto;
+  padding: 60px;
+}
+.address{
+  display: block;
+  width: 360px;
+  float: left;
+  text-align: center;
+
+
+}
+.address h3{
+  font-size: 49px;
+}
+.address p{
+  font-size: 38px;
+}
+.contx{
+  display: block;
+  width: 360px;
+  float: right;
+  text-align: center;
+
+}
+.contx h3{
+  text-decoration: none;
+  font-size: 40px;
+}
+.pm p{
+  background: url(img/phone.png)
+    no-repeat left center;
+  padding: 20px;
+  font-size: 25px;
+
+}
+.pm p:last-child{
+  background: url(img/mail.png)
+    no-repeat left center;
+
+}
+.pm span{
+  font-weight: bold;
+  color: #7d7676;
+}
+.soc{
+  margin: 
+}
+
+.soc li{
+  float: left;
+  display: block;
+  margin-right: 45px; 
+
+}
+.soc li:hover{
+  opacity:0.6;
+}
