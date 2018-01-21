@@ -223,14 +223,14 @@ h1{
   font-size: 40px;
 }
 .pm p{
-  background: url(img/phone.png)
+  background: url(phone.png)
     no-repeat left center;
   padding: 55px;
   font-size: 25px;
 
 }
 .pm p:last-child{
-  background: url(img/mail.png)
+  background: url(mail.png)
     no-repeat left center;
 
 }
