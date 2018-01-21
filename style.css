@@ -15,7 +15,7 @@ body{
 
 }
 #first{
-  background: url(img/seasky.jpg) no-repeat center top / cover;
+  background: url(seasky.jpg) no-repeat center top / cover;
   height: 800px;
 }
 
